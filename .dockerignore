@@ -1,0 +1,11 @@
+
+---
+
+### `.dockerignore`: Clean Builds
+
+Prevent clutter during builds by ignoring unnecessary files:
+
+```dockerignore
+.git
+*.log
+node_modules
