@@ -42,7 +42,7 @@ This repository contains a `Dockerfile` — a recipe that builds a virtual machi
 ### 🧱 2. Clone This Repo
 
 ```bash
-git clone https://github.com/yourusername/docker_node.git
+git clone https://github.com/bsmaceira/docker_node.git
 cd docker_node
 ```
 
