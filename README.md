@@ -16,7 +16,8 @@ This repository contains a `Dockerfile` — a recipe that builds a virtual machi
 - Creating a clean dev space with nano and git
 - Learning Docker in a no-stress, no-frills way
 
-This is NOT the official docker-node image, this version is just a personal project designed to be beginner-friendly, with Git and Nano pre-installed and a simple, easy-to-understand setup. Great for those who want to quickly dive into Docker and Node.js without worrying about configuring everything from scratch.
+This is NOT the official docker-node image, head to [docker-node](https://github.com/nodejs/docker-node) instead for that one, this version is just a personal project designed to be beginner-friendly, with Git and Nano pre-installed and a simple, easy-to-understand setup. Great for those who want to quickly dive into Docker and Node.js without worrying about configuring everything from scratch.
+It’s heavier than standard Node images (~440MB), but trades performance for ease of use and familiar tooling.
 
 ---
 
